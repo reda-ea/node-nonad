@@ -1,0 +1,39 @@
+{
+  "name": "nonad",
+  "version": "0.0.1",
+  "description": "NOt a moNAD: a simple way to encapsulate side effects in functional Javascript",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reda-ea/node-nonad.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "js",
+    "monad",
+    "functional",
+    "pure",
+    "side",
+    "effect",
+    "maybe",
+    "nothing",
+    "unit",
+    "bind",
+    "pack",
+    "unpack",
+    "define"
+  ],
+  "author": "Reda El Khattabi <reda.ea@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reda-ea/node-nonad/issues"
+  },
+  "homepage": "https://github.com/reda-ea/node-nonad#readme"
+}
